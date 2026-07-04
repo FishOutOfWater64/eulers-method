@@ -7,10 +7,16 @@ typedef struct {
     double C;
 } DqDtParams;
 
+typedef struct {
+
+};
+
 // discharging a capacitor
 double dqdt(double q, const DqDtParams& p) {
     return -1 * q / (p.R * p.C);
 }
+
+double dPdt(double p0, const )
 
 template <typename DiffEqFunc>
 std::vector<double> eulersMethod(double dt, const std::vector<double>& initCond, double t_f, DiffEqFunc f) {
