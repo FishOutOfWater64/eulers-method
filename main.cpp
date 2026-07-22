@@ -54,7 +54,6 @@ int main() {
         double x_f = input;
         std::cout << '\n';
 
-
         auto userDerivative = [&](double xCurrent, double yCurrent) -> double {
             x = xCurrent; // Update x value that the parser reads through each iteration
             y = yCurrent; // Same for y
