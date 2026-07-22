@@ -1,3 +1,0 @@
-/Users/bub/CLionProjects/eulers-method/cmake-build-debug/CMakeFiles/differential.dir
-/Users/bub/CLionProjects/eulers-method/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/bub/CLionProjects/eulers-method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
