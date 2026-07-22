@@ -23,7 +23,6 @@ int main() {
         p.DefineVar("y", &y); // Adding variables to the parser
 
         // We receive user input below
-
         std::cout << "Enter an explicit first order ODE: " << std::endl;
         std::cout << "dy/dx =";
         std::string dydx;
